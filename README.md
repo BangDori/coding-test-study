@@ -31,8 +31,14 @@
 ## 주차별 문제
 
 <details>
-   <summary>24.02.17</summary>
-   <ul markdown="1"></ul>
+   <summary>24.02.17 - 1주차 코딩 테스트</summary>
+   <ul markdown="1">
+      <li>20167번: 꿈틀꿈틀 호석 애벌레 - 기능성</li>
+      <li>20002번: 사과나무</li>
+      <li>5549번: 행성 탐사</li>
+      <li>10713번: 기차 여행</li>
+      <li>1368번: 물대기</li>
+   </ul>
 </details>
 
 ## 스터디원 깃허브 및 언어
