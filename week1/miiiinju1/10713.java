@@ -66,8 +66,6 @@ public class problem4 {
 
 
         Train[] trains = new Train[N];
-        Stream<Integer> s = Stream.of(1, 2, 2, 2, 3);
-        final Integer i1 = s.skip(1).findFirst().get();
         for(int i=1;i<N;i++) {
             st = new StringTokenizer(br.readLine());
             trains[i] = new Train(Integer.parseInt(st.nextToken()),
