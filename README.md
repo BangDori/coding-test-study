@@ -22,7 +22,7 @@
 
 |   날짜   | 강병준 | 김민주 | 김힘찬 | 안수진 | 우재민 | 이진우 | 조유정 |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 24.02.17 |        |        |        |        |        |        |        |
+| 24.02.17 | [#4](https://github.com/BangDori/coding-test-study/pull/4) | [#5](https://github.com/BangDori/coding-test-study/pull/5) | ❌ | [#10](https://github.com/BangDori/coding-test-study/pull/10) | [#8](https://github.com/BangDori/coding-test-study/pull/8) | [#3](https://github.com/BangDori/coding-test-study/pull/3) | [#6](https://github.com/BangDori/coding-test-study/pull/6) |
 | 24.02.24 |        |        |        |        |        |        |        |
 | 24.03.02 |        |        |        |        |        |        |        |
 | 24.03.09 |        |        |        |        |        |        |        |
