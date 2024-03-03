@@ -20,13 +20,12 @@
 
 ## 진행 상황
 
-|   날짜   | 강병준 | 김민주 | 김힘찬 | 안수진 | 우재민 | 이진우 | 조유정 |
-| :------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 24.02.17 |        |        |        |        |        |        |        |
-| 24.02.24 |        |        |        |        |        |        |        |
-| 24.03.02 |        |        |        |        |        |        |        |
-| 24.03.09 |        |        |        |        |        |        |        |
-| 24.03.16 |        |        |        |        |        |        |        |
+|   날짜   | 강병준 | 김민주 | 안수진 | 우재민 | 이진우 | 조유정 |
+| :------: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 24.02.17 | [#4](https://github.com/BangDori/coding-test-study/pull/4) | [#5](https://github.com/BangDori/coding-test-study/pull/5) | [#10](https://github.com/BangDori/coding-test-study/pull/10) | [#8](https://github.com/BangDori/coding-test-study/pull/8) | [#3](https://github.com/BangDori/coding-test-study/pull/3) | [#6](https://github.com/BangDori/coding-test-study/pull/6) |
+| 24.03.02 |        |        |        |        |        |        |
+| 24.03.09 |        |        |        |        |        |        |
+| 24.03.16 |        |        |        |        |        |        |
 
 ## 주차별 문제
 
@@ -44,4 +43,4 @@
 ## 스터디원 깃허브 및 언어
 
 - [강병준](https://github.com/BangDori), [우재민](https://github.com/WooJJam): Python
-- [김민주](https://github.com/miiiinju1), [김힘찬](https://github.com/HmDol), [안수진](https://github.com/ssuzyn), [이진우](https://github.com/jinlee1703), [조유정](https://github.com/hiyoojeong): Java
+- [김민주](https://github.com/miiiinju1), [안수진](https://github.com/ssuzyn), [이진우](https://github.com/jinlee1703), [조유정](https://github.com/hiyoojeong): Java
