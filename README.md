@@ -1,7 +1,7 @@
 ## 스터디 규칙
 
-- 코딩 테스트: 매주 토요일 (14:00 ~ 17:00)
-   - 코딩 테스트 불참 시, 화요일 넘어가기 전 월요일 자정까지 코테 참여 이후에 PR 합니다.
+- 코딩 테스트: 매주 목요일 (13:30 ~ 15:30)
+   - 화요일 넘어가기 전 월요일 자정까지 코테 참여 이후에 PR 합니다.
 - 코드 리뷰
 
   1. 해당 branch를 fork한다.
@@ -23,9 +23,9 @@
 |   날짜   | 강병준 | 김민주 | 안수진 | 우재민 | 이진우 | 조유정 |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 24.02.17 | [#4](https://github.com/BangDori/coding-test-study/pull/4) | [#5](https://github.com/BangDori/coding-test-study/pull/5) | [#10](https://github.com/BangDori/coding-test-study/pull/10) | [#8](https://github.com/BangDori/coding-test-study/pull/8) | [#3](https://github.com/BangDori/coding-test-study/pull/3) | [#6](https://github.com/BangDori/coding-test-study/pull/6) |
-| 24.03.02 |        |        |        |        |        |        |
-| 24.03.09 |        |        |        |        |        |        |
-| 24.03.16 |        |        |        |        |        |        |
+| 24.03.02 | [#12](https://github.com/BangDori/coding-test-study/pull/12) | [#14](https://github.com/BangDori/coding-test-study/pull/14) | [#16](https://github.com/BangDori/coding-test-study/pull/16) | ❌ | [#15](https://github.com/BangDori/coding-test-study/pull/15) | ❌ |
+| 24.03.07 |        |        |        |        |        |        |
+| 24.03.14 |        |        |        |        |        |        |
 
 ## 주차별 문제
 
@@ -39,6 +39,17 @@
       <li>1368번: 물대기</li>
    </ul>
 </details>
+<details>
+   <summary>24.03.02 - 2주차 코딩 테스트</summary>
+   <ul markdown="1">
+      <li>25601번: 자바의 형변환</li>
+      <li>22871번: 징검다리 건너기 (large)</li>
+      <li>17085번: 십자가 2개 놓기</li>
+      <li>8972번: 미친 아두이노</li>
+      <li>15573번: 채굴</li>
+   </ul>
+</details>
+
 
 ## 스터디원 깃허브 및 언어
 
