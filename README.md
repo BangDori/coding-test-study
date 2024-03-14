@@ -24,8 +24,8 @@
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 24.02.17 | [#4](https://github.com/BangDori/coding-test-study/pull/4) | [#5](https://github.com/BangDori/coding-test-study/pull/5) | [#10](https://github.com/BangDori/coding-test-study/pull/10) | [#8](https://github.com/BangDori/coding-test-study/pull/8) | [#3](https://github.com/BangDori/coding-test-study/pull/3) | [#6](https://github.com/BangDori/coding-test-study/pull/6) |
 | 24.03.02 | [#12](https://github.com/BangDori/coding-test-study/pull/12) | [#14](https://github.com/BangDori/coding-test-study/pull/14) | [#16](https://github.com/BangDori/coding-test-study/pull/16) | ❌ | [#15](https://github.com/BangDori/coding-test-study/pull/15) | ❌ |
-| 24.03.07 |        |        |        |        |        |        |
-| 24.03.14 |        |        |        |        |        |        |
+| 24.03.07 | [#17](https://github.com/BangDori/coding-test-study/pull/17) | [#18](https://github.com/BangDori/coding-test-study/pull/18) | ❌ | ❌ | ❌ | ❌ |
+| 24.03.14 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## 주차별 문제
 
